@@ -213,7 +213,6 @@ tables:
   - aws_dax_clusters
   - aws_dms_replication_instances
   - aws_dynamodb_table_continuous_backups
-  - aws_dynamodb_table_replica_auto_scalings
   - aws_dynamodb_tables
   - aws_ec2_ebs_snapshot_attributes
   - aws_ec2_ebs_snapshots
