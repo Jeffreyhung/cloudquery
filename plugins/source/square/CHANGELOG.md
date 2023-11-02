@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/cloudquery/cloudquery/compare/plugins-source-square-v1.0.6...plugins-source-square-v1.0.7) (2023-11-02)
+
+
+### Bug Fixes
+
+* **deps:** Update module github.com/docker/docker to v24 [SECURITY] ([#15060](https://github.com/cloudquery/cloudquery/issues/15060)) ([41acd0e](https://github.com/cloudquery/cloudquery/commit/41acd0e4ac63221e90cca89a7137a8685692267d))
+
 ## [1.0.6](https://github.com/cloudquery/cloudquery/compare/plugins-source-square-v1.0.5...plugins-source-square-v1.0.6) (2023-10-24)
 
 
