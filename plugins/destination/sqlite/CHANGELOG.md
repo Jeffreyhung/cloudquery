@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.17](https://github.com/cloudquery/cloudquery/compare/plugins-destination-sqlite-v2.4.16...plugins-destination-sqlite-v2.4.17) (2023-11-02)
+
+
+### Bug Fixes
+
+* **deps:** Update module github.com/docker/docker to v24 [SECURITY] ([#15060](https://github.com/cloudquery/cloudquery/issues/15060)) ([41acd0e](https://github.com/cloudquery/cloudquery/commit/41acd0e4ac63221e90cca89a7137a8685692267d))
+
 ## [2.4.16](https://github.com/cloudquery/cloudquery/compare/plugins-destination-sqlite-v2.4.15...plugins-destination-sqlite-v2.4.16) (2023-11-01)
 
 
